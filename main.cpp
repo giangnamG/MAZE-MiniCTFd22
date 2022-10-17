@@ -379,6 +379,7 @@ void endgame(){
 	gotoxy(25,13);  cout <<"Press M to see menu !";
 	gotoxy(25,14);  cout <<"Press Esc to exit !";
 	gotoxy(25,11);  cout <<"Tuy chon: ";
+	gotoxy(25,15);  cout <<"ISPCTF{Cu_Di_r01_S3_d3n}";
 	textcolor(8 + rand() % 8);
 	Sleep(800);
 	}
